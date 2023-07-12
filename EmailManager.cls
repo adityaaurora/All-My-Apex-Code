@@ -1,3 +1,4 @@
+//blah blah blah branch control test
 public class EmailManager {
     // Public method
     public void sendMail(String address, String subject, String body) {
